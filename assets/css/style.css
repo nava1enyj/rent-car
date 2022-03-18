@@ -1,0 +1,12 @@
+.error{
+    border:1px solid red;
+}
+.img{
+    max-height: 200px;
+
+}
+
+.img-confirm{
+    max-height: 400px;
+    max-width:  400px;
+}
